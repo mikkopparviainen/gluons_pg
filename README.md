@@ -11,18 +11,10 @@ commenting/debugging.
 
 - [`gluonts_playground.ipynb`](./gluonts_playground.ipynb)
 
-## Development
+## Usage
 
 1. Create new virtual environment with conda: `conda create -n py_310 python=3.10`
 2. Active the environment: `conda activate py_310`
 3. Open notebook: `jupyter notebook` (NB: you need to install the used
 packages with pip into `py_310` environment)
 
-
-### Tests
-
-TODO
-
-### Automated testing
-
-TODO
